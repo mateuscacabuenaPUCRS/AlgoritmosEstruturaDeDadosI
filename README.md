@@ -1,2 +1,6 @@
-# AlgoritmosEstruturaDeDadosI
-Esta disciplina tem como objetivo principal fornecer aos estudantes os conceitos e ferramentas necessários para projetar e implementar algoritmos eficientes, além de estruturas de dados adequadas para lidar com problemas computacionais complexos.
+# Algoritmos Estrutura De Dados I
+
+-  Professor: Isabel Manssour
+-  Código: 4645G-04
+-  Semestre: 2023/1
+-  Nota: 8.3
